@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.aliyunidaas</groupId>
   <artifactId>idaas-sync-fc</artifactId>
-  <version>1.0.0</version>
+  <version>1.1.0</version>
   <name>Alibaba Cloud IDaaS Sync SDK for Function Compute</name>
   <description>Alibaba Cloud IDaaS User/Directory Sync SDK for Alibaba Cloud Function Compute</description>
   <url>https://github.com/aliyunidaas/java-fc-sync-sdk</url>
@@ -12,7 +12,7 @@
   <properties>
     <java.version>1.8</java.version>
     <fc-java-core.version>1.4.0</fc-java-core.version>
-    <idaas-sync.version>1.0.0</idaas-sync.version>
+    <idaas-sync.version>1.1.0</idaas-sync.version>
   </properties>
 
   <licenses>
